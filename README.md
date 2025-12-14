@@ -185,5 +185,3 @@ This project is for learning and personal use. Feel free to modify and extend it
 ## 🙌 Acknowledgements
 
 Built as a hands-on learning project to understand **full-stack app development with Python**.
-
-Happy coding! 🚀
